@@ -1,0 +1,13 @@
+Downloading Mod 1501538330 [ 17BCT Shit ]
+-----------------------------------
+Steam Console Client (c) Valve Corporation
+-- type 'quit' to exit --
+Loading Steam API...OK.
+
+Logging in user 'user4752' to Steam Public...\src\tier0\threadtools.cpp (3220) : Assertion Failed: Illegal termination of worker thread 'CIPCServer::m_ThreadClient'
+
+Using cached credentials. . .
+Login Failure: Invalid Password 
+Login with cached credentials FAILED with result code 5
+
+password: \src\tier0\threadtools.cpp (3220) : Assertion Failed: Illegal termination of worker thread 'SocketThread'

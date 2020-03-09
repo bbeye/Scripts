@@ -1,0 +1,72 @@
+Steam Console Client (c) Valve Corporation
+-- type 'quit' to exit --
+Loading Steam API...OK.
+
+Logging in user 'user4752' to Steam Public...
+Using cached credentials. . .
+Logged in OK
+Waiting for user info...OK
+Downloading item 1501538330 ...
+ERROR! Download item 1501538330 failed (Failure).Steam Console Client (c) Valve Corporation
+-- type 'quit' to exit --
+Loading Steam API...OK.
+
+Logging in user 'user4752' to Steam Public...
+Using cached credentials. . .
+Logged in OK
+Waiting for user info...OK
+Downloading item 463939057 ...
+ERROR! Download item 463939057 failed (Failure).Steam Console Client (c) Valve Corporation
+-- type 'quit' to exit --
+Loading Steam API...OK.
+
+Logging in user 'user4752' to Steam Public...
+Using cached credentials. . .
+Logged in OK
+Waiting for user info...OK
+Downloading item 773131200 ...
+ERROR! Download item 773131200 failed (Failure).Steam Console Client (c) Valve Corporation
+-- type 'quit' to exit --
+Loading Steam API...OK.
+
+Logging in user 'user4752' to Steam Public...
+Using cached credentials. . .
+Logged in OK
+Waiting for user info...OK
+Downloading item 884966711 ...
+ERROR! Download item 884966711 failed (Failure).Steam Console Client (c) Valve Corporation
+-- type 'quit' to exit --
+Loading Steam API...OK.
+
+Logging in user 'user4752' to Steam Public...
+Using cached credentials. . .
+Logged in OK
+Waiting for user info...OK
+Downloading item 773125288 ...
+ERROR! Download item 773125288 failed (Failure).Steam Console Client (c) Valve Corporation
+-- type 'quit' to exit --
+Loading Steam API...OK.
+
+Logging in user 'user4752' to Steam Public...
+Using cached credentials. . .
+Logged in OK
+Waiting for user info...OK
+Downloading item 708250744 ...
+ERROR! Download item 708250744 failed (Failure).Steam Console Client (c) Valve Corporation
+-- type 'quit' to exit --
+Loading Steam API...OK.
+
+Logging in user 'user4752' to Steam Public...
+Using cached credentials. . .
+Logged in OK
+Waiting for user info...OK
+Downloading item 723217262 ...\src\tier0\threadtools.cpp (3131) : Assertion Failed: Illegal termination of worker thread 'CIPCServer::m_ThreadClient'
+Steam Console Client (c) Valve Corporation
+-- type 'quit' to exit --
+Loading Steam API...OK.
+
+Logging in user 'user4752' to Steam Public...
+Using cached credentials. . .
+Logged in OK
+Waiting for user info...OK
+Downloading item 730310357 ...\src\tier0\threadtools.cpp (3131) : Assertion Failed: Illegal termination of worker thread 'CIPCServer::m_ThreadClient'
