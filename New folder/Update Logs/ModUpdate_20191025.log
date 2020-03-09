@@ -1,0 +1,10 @@
+Downloading Mod 1501538330 [ 17BCT Shit ]
+-----------------------------------
+Steam Console Client (c) Valve Corporation
+-- type 'quit' to exit --
+Loading Steam API...OK.
+Logging in user '100dollarrandy' to Steam Public ...
+\src\tier0\threadtools.cpp (3225) : Assertion Failed: Illegal termination of worker thread 'CIPCServer::m_ThreadClient'
+FAILED login with invalid cached credentials
+
+password: \src\common\steamservice.cpp (58) : Assertion Failed: m_hServiceLib == NULL
